@@ -7,3 +7,8 @@ int fun1()
 {
 	print("fin1()");
 }
+
+int fun2()
+{
+	print("fun2()");
+}
